@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -8,3 +9,6 @@ double multiplication(vector<vector<double>> first, vector<vector<double>> secon
 {
 
 }
+=======
+#include "Stdafx.h"
+>>>>>>> origin/furqansadiqlab1
